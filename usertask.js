@@ -1,0 +1,25 @@
+
+[{
+    "user_name":"naveen",
+    "date":ISODate("2020-10-16"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"vinithra",
+    "date":ISODate("2020-11-01"),
+    "attendance":"absent",
+    "task_submission":"passed"
+},
+{
+    "user_name":"surya",
+    "date":ISODate("2020-11-16"),
+    "attendance":"present",
+    "task_submission":"failed"
+},
+{
+    "user_name":"sandhya",
+    "date":ISODate("2020-11-17"),
+    "attendance":"present",
+    "task_submission":"passed"
+}]
